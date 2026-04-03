@@ -3,6 +3,7 @@ public class Algorithm {
 
 
     // Mr. Lyna artribute 
+    private int [] sample = { 2,4,1,6,8};
 
 
     // Mr. Nary methond max
