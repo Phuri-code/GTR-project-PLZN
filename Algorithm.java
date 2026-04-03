@@ -1,29 +1,15 @@
 public class Algorithm {
-    // sdfghiop khasdkhfkasdf
-    int[] sample = {};
-    int[] input;
-    int[] output;
+    // Mr. lyza method sum
 
-    //Task2
-    Algorithm(int[] input) {
-    }
+
+    // Mr. Lyna artribute 
+
+
+    // Mr. Nary methond max
+
+
+    // Mr. veasna method sub
     
-    // Task3 
-    int[] sum(int[] input){
-        return new int[0];
-    }
-
-    //Task4
-    int[] max(int[] input){
-        return 0;
-    }
-
-    // Task5 
-    int main(int[] input){
-        return 0;
-    
- System.out.println();
-
 
 
 }
