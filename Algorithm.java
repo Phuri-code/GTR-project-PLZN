@@ -22,7 +22,7 @@ public class Algorithm {
     int main(int[] input){
         return 0;
     
-
+ System.out.println();
 
 
 
